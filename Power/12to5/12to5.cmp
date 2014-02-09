@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2/9/2014 3:22:40 PM
+
+BeginCmp
+TimeStamp = /52F7D12E;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7D13B;
+Reference = C2;
+ValeurCmp = 100u;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7DD33;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7DDCA;
+Reference = CON2;
+ValeurCmp = BARREL_JACK;
+IdModule  = BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7DDD7;
+Reference = CON3;
+ValeurCmp = BARREL_JACK;
+IdModule  = BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7D3D7;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7D3E6;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7D28D;
+Reference = U1;
+ValeurCmp = LM1085;
+IdModule  = TO220;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7E0CD;
+Reference = U2;
+ValeurCmp = USB_A;
+IdModule  = USB_A;
+EndCmp
+
+EndListe
